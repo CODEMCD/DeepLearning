@@ -6,5 +6,5 @@
 
 이러한 점을 극복하기 위해, 최근에는 Unified Detection에 해당하는 연구들이 진행되고 있다. 대표적으로 Yolo, SSD가 이에 해당된다.
 
-## Bounding Box Regression
+# Bounding Box Regression
 Bounding box의 parameter를 찾는 regression을 의미한다. 초기의 region proposal과 CNN이 예측한 결과가 서로 맞지 않을 있다. 그렇기 때문에 Bounding box regressor는 CNN의 마지막 pooling layer에서 얻은 feature 정보를 사용하여 region proposal의 regression을 계산한다.
