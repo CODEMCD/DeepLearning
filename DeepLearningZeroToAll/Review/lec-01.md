@@ -1,4 +1,4 @@
-# Lecture 01
+# Lecture 01 - Machine Learning Basics
 
 ![lec-01_1](https://user-images.githubusercontent.com/34755287/38808792-52ddb99c-41bc-11e8-9ca4-2a53ef7d9785.JPG)
 
