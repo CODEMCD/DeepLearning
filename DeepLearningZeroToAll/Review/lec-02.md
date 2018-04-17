@@ -1,4 +1,4 @@
-# Lecture 02
+# Lecture 02 - Linear Regression
 
 ![lec-02_1](https://user-images.githubusercontent.com/34755287/38864365-78940b14-4275-11e8-8aca-2be53e0d9223.JPG)
 
