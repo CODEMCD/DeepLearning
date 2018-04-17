@@ -1,5 +1,7 @@
 # Lecture 03
 
+## How to minimize cost
+
 ![lec-03_1](https://user-images.githubusercontent.com/34755287/38865490-e5a326b0-4278-11e8-9f11-2c296140a071.JPG)
 
 ***
