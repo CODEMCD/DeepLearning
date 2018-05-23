@@ -63,8 +63,8 @@ H(x) = Wx + b
 ## 코드 구현을 위한 cost function
 ![5-2_4](https://user-images.githubusercontent.com/34755287/40430085-3f25e272-5edf-11e8-96e9-57db68f5bb85.PNG)
 
-- if문을 삭제하여 코드 구현하는데 간단하게 표현하기 위함이다.
-
+- if문을 삭제하여 코드를 구현하는데 간단하게 표현하기 위함이다.
+ 
 ## Minimize cost - Gradient decent algorithm
 ![5-2_5](https://user-images.githubusercontent.com/34755287/40430184-85853326-5edf-11e8-9d75-4d4aee165384.PNG)
 
