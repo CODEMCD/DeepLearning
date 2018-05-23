@@ -33,7 +33,7 @@
 
 ![5-1_3](https://user-images.githubusercontent.com/34755287/40427595-2054cec2-5ed9-11e8-91a4-9587113e1bb4.PNG)
 
-# 
+# Lecture 5 - 2 Logistic (regression) classification: cost function & gradient decent
 
 ## Cost function
 ![5-2_1](https://user-images.githubusercontent.com/34755287/40428072-702d4360-5eda-11e8-9b45-4c54142f217e.PNG)
