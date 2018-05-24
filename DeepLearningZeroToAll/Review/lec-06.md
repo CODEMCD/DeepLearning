@@ -42,7 +42,7 @@
 - 위의 식을 Cross-entropy 라고 부른다.
 ## Cross-entropy cost function
 
-![6-2_5](https://user-images.githubusercontent.com/34755287/40457566-3c6f5eb6-5f32-11e8-8bac-766997c052c0.PNG)
+![6-2_5](https://user-images.githubusercontent.com/34755287/40461145-e93f923e-5f44-11e8-9a2f-4fec94cfea2e.PNG)
 
 - 위의 예제에서 볼 수 있듯이, 정답을 도출하면 cost 값이 0이고, 틀린 답을 도출하면 cost 값이 무한대 값이 나오는 것을 알 수 있다.
 
